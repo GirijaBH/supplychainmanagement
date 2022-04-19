@@ -1,0 +1,14 @@
+
+.page-footer {
+    background-color: lightblue;
+    color: black;
+    position: fixed;
+    left: 0;
+    bottom: 0; 
+    height: 10px; 
+    width: 100%;
+    text-align: center;
+    height: 10%;
+
+}
+
